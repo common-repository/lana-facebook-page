@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lana Facebook Page\n"
+"POT-Creation-Date: 2017-01-05 06:55+0100\n"
+"PO-Revision-Date: 2017-01-05 06:55+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-lana-fb-page-widget.php:14
+msgid "Lana - Facebook Page"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:15
+msgid "Facebook page plugin."
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:62
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:67
+msgid "The URL of the Facebook Page"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:72
+msgid "Adapt to plugin container width:"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:77
+#: includes/class-lana-fb-page-widget.php:133
+#: includes/class-lana-fb-page-widget.php:148
+#: includes/class-lana-fb-page-widget.php:163
+msgid "False"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:80
+#: includes/class-lana-fb-page-widget.php:136
+#: includes/class-lana-fb-page-widget.php:151
+#: includes/class-lana-fb-page-widget.php:166
+msgid "True"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:87
+msgid "Width:"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:92
+msgid "The pixel width of the embed (Min. 180 to Max. 500)"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:97
+msgid "Height:"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:102
+msgid "The pixel height of the embed (Min. 70)"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:107
+msgid "Tabs:"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:112
+msgid "None"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:115
+msgid "Timeline"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:118
+msgid "Events"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:121
+msgid "Messages"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:128
+msgid "Hide Cover Photo:"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:143
+msgid "Show Friend's Faces:"
+msgstr ""
+
+#: includes/class-lana-fb-page-widget.php:158
+msgid "Use Small Header:"
+msgstr ""
